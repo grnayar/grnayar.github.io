@@ -1,0 +1,52 @@
+.mynameheading {
+	color: silver;
+	text-align: center;
+}
+.aboutme {
+	border: 5px solid grey;
+}
+body {
+	background: #84E36A ;
+}
+h1 {
+	color: #A7AACA;
+	font-family: 'Pacifico', cursive;
+	margin-bottom: 20px;
+	font-size: 45px;
+}
+p {
+	font-family: 'Pacifico', cursive;
+	font-size: 30px;
+}
+.aboutme {
+	font-family: 'Poiret One', cursive;
+	font-size: 24px;
+	text-align: justify;
+	padding: 5px;
+}
+.socialmedialinks {
+	 margin-top: 50px;
+	 padding: auto;
+	 text-align: center;
+}
+.dagram {
+	margin-left: 50px;
+}
+.myimageyo {
+
+}
+.jumbotrontext-center {
+	margin-top: 100px;
+	font-size: 50px;
+}
+h2 {
+	text-align: center;
+	margin-top: 50px;
+	font-family: 'Shrikhand', cursive;
+}
+.navbar  {
+	margin-bottom: 0;
+}
+a {
+	font-size: 35px;
+}
